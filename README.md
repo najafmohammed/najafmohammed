@@ -1,4 +1,7 @@
-Hello there, I'm @najafmohammed and I guess I code or something.
+Hey I'm Najaf Mohammed and you can see me doing
+creative coding.
+game dev.
+web and mobile front end development.
 
 <!---
 najafmohammed/najafmohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
