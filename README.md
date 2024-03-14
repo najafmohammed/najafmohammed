@@ -2,6 +2,7 @@ Hey I'm Najaf Mohammed and you can see me doing
 - Creative coding
 - Game dev.
 - Web and mobile front end development
+- Data visualization and analysis
 
 <!---
 najafmohammed/najafmohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
