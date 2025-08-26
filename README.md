@@ -28,8 +28,8 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=najafmohammed&show_icons=true&theme=tokyonight" alt="GitHub stats" height="110"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najafmohammed&layout=compact&theme=tokyonight" alt="Top Langs" height="110"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=najafmohammed&show_icons=true&theme=tokyonight" alt="GitHub stats" height="100"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najafmohammed&layout=compact&theme=tokyonight" alt="Top Langs" height="100"/>  
 
 </td>
 <td>  
