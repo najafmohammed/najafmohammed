@@ -21,7 +21,7 @@
 
 ### ⚡ About Me ![Profile Views](https://komarev.com/ghpvc/?username=najafmohammed&label=Profile%20views&color=0e75b6&style=flat)
 - 🌱 Currently learning: **LLMs and Generative AI**  
-- 👨‍💻 Projects → [GitHub Portfolio](https://github.com/najafmohammed)  
+- 👨‍💻 Projects → [Portfolio](portfolio-liard-three-91.vercel.app)  
 - 💬 Ask me about **building performant, creative UIs**
 - 📫 Reach me → **najafmohammed17@gmail.com**  
 - ⚡ Fun fact → *I am powered by music* 🎨
